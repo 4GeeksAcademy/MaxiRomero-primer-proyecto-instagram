@@ -1,0 +1,76 @@
+.encabezado {
+    display: flex;
+    margin-left: -10px;
+    
+}
+
+.numero5 {
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+h1 {
+    width: 5px;
+    height: 5px;
+    font-size: small;
+    margin-left: 0.5%;
+    
+}
+
+.trespuntitos{
+    width: 30px;
+    height: 30px;
+    margin-left: 240px;
+    margin-top: 10px;
+    
+}
+
+.nombre {
+margin-top: 24px;
+margin-left: -5px;
+
+}
+
+.paisajebonito {
+    width: 375px;
+    height: 300px;
+    margin-top: -5px;
+}
+/* FIN DEL ENCABEZADO */
+
+.iconos {
+display: flex;
+}
+
+.iconoGuardar {
+    margin-left: 230px;
+}
+
+.comentar {
+    margin-left: 5px;
+}
+
+.compartir {
+    margin-left: 5px;
+}
+
+.corazon {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+/* FIN ICONOS */
+
+.primero {
+    font-size: smaller;
+    margin-inline: 10px;
+}
+
+.segundo {
+    font-size: smaller;
+    margin-inline: 10px;
+    margin-top: -20px;
+}
+
+/* FIN PARRAFOS */
